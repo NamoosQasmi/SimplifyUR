@@ -4,15 +4,16 @@ This repository contains code, dataset and models for Urdu text simplification a
 
 # Requirement(s)
 
-It is implemented in python3. Please see [requirements.txt](https://github.com/harisbinzia/SimplifyUR/blob/master/requirements.txt) for details.
-
-# Dataset
-
-A parallel corpus of [complex](https://github.com/harisbinzia/SimplifyUR/blob/master/Data/Complex.txt)-[simplified](https://github.com/harisbinzia/SimplifyUR/blob/master/Data/Simplified.txt) Urdu sentence-pairs is available for download.
+The source is available as a [Jupyter](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) notebook for a Python 3 kernel. Please see [requirements.txt](requirements.txt) for details.
 
 # Model(s)
 
 Pre-trained models including Word2Vec, Parts of Speech (PoS) tagger and Language Model (LM) are [available for download](https://drive.google.com/file/d/1RVW7C-d6hOqIPOiYVHWqiicaYaFloLeo/view). Download and extract them to root directory, SimplifyUR.
+
+# Dataset
+
+A parallel corpus of [complex](Data/Complex.txt)-[simplified](Data/Simplified.txt) Urdu sentence-pairs is the [Data](Data) folder.
+
 
 # Reference(s)
 
