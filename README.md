@@ -37,7 +37,7 @@ If you use this tool in any of your work, please cite below paper.
 
 # License(s)
 
-Copyright (c) 2019 CSaLT, ITU
+Copyright (c) 2020 CSaLT, ITU
 
 Code licensed under the MIT License: http://opensource.org/licenses/MIT.
 Data licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
