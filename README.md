@@ -1,6 +1,6 @@
 # SimplifyUR
 
-This repository contains code, dataset and models for Urdu text simplification as described in paper [SimplifyUR: Unsupervised Lexical Text Simplification for Urdu](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.427.pdf).
+This repository contains code, dataset and models for Urdu text simplification as described in paper [SimplifyUR: Unsupervised Lexical Text Simplification for Urdu](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.428.pdf).
 
 # Requirement(s)
 
@@ -19,7 +19,7 @@ A parallel corpus of [complex](Data/Complex.txt)-[simplified](Data/Simplified.tx
 
 If you use this tool in any of your work, please cite below paper.
 
-[SimplifyUR: Unsupervised Lexical Text Simplification for Urdu](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.427.pdf)
+[SimplifyUR: Unsupervised Lexical Text Simplification for Urdu](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.428.pdf)
 
 ```
 @InProceedings{qasmi-EtAl:2020:LREC,
@@ -30,9 +30,10 @@ If you use this tool in any of your work, please cite below paper.
   year           = {2020},
   address        = {Marseille, France},
   publisher      = {European Language Resources Association},
-  pages     = {3477--3482},
-  url       = {https://www.aclweb.org/anthology/2020.lrec-1.427}
+  pages     = {3484--3489},
+  url       = {https://www.aclweb.org/anthology/2020.lrec-1.428}
 }
+
 ```
 
 # License(s)
